@@ -1,6 +1,6 @@
 {
   "name": "responsive-poster-react",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "a canvas react component aiming to generate personalized poster, featured with the responsive locating and sizing of images for display purposes",
   "main": "lib/index.js",
   "scripts": {

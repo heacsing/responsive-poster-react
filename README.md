@@ -2,7 +2,7 @@
 一个在react框架下利用canvas生成海报的简单组件
 A simple REACT component for generating posters 
 
-![图 1](../images/85afb81be5c5f1f5760e206a04be03de05b01f57d278445ca794df7516d665ba.png)  
+
 
 ## feature
 - Take advantage of the simple json-like object to easily use
